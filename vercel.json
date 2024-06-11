@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://flexidomain.webflow.io/$1"
+    }
+  ]
+}
